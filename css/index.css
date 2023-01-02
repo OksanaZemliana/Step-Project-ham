@@ -457,6 +457,7 @@
     font-size: 16px;
     line-height: 25px;
     padding: 8px 20px;
+    text-align: center;
 }
 
 .news-item:hover .news-date {
